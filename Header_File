@@ -1,0 +1,5 @@
+#define TEMBOO_ACCOUNT "harsimran"  // Your Temboo account name 
+#define TEMBOO_APP_KEY_NAME "gasleakage"  // Your Temboo app key name
+#define TEMBOO_APP_KEY "z55a1b2c3d4-e5f6-7890-a"  // Your Temboo app key
+
+#define ETHERNET_SHIELD_MAC {0xC0, 0x26, 0x1B, 0x5A, 0x70, 0x26}
