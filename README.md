@@ -19,3 +19,5 @@
 
 ![cicuit](https://github.com/user-attachments/assets/bd1613bb-7b50-4b6d-9fca-6e97b950713d)<br>
 ![Screenshot from 2022-01-0-HarsimranGalaxyA52](https://github.com/user-attachments/assets/f5f347ab-80d0-4bc5-9e60-6d60478b2b57)
+
+![snap6](https://github.com/user-attachments/assets/c89f65c1-9e47-4fb6-ae9b-bd6f3cee8c4c)
